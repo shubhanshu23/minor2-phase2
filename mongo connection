@@ -1,0 +1,19 @@
+mongo db connection
+
+1)install mongodb 
+2)environment variables >  bin  path
+
+3) place the data fil in the data folder
+
+4)command prompt
+mongod.exe --dbpath "path to data folder"
+
+5)open another command prompt and run
+mongo.exe
+
+6)use minordata
+
+7)show collections
+
+8)db.collection_name.find( )
+ db.collection.find().pretty()
